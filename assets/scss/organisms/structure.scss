@@ -1,0 +1,30 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.vertical-align{
+	display: flex;
+	align-items: center;
+}
+
+.block{
+	display: block;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+}

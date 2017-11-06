@@ -1,14 +1,16 @@
 // Libraries
 @import "libraries/bootstrap";
-@import "libraries/owl-carousel/owl.carousel.min";
-@import "libraries/owl-carousel/owl.theme.default.min";
-@import "libraries/jquery.fancybox";
+@import "libraries/bootstrap-theme.min";
 @import "libraries/animate";
+@import "libraries/jquery.fancybox";
+
+// Organisms
+@import "organisms/structure";
 
 // Atoms
-@import "atoms/animations";
 
 // Molecules
-@import "molecules/box-othersSites";
+@import "molecules/highlight";
+@import "molecules/modal";
 
 // Pages
